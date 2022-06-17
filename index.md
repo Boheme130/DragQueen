@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Drag Queen
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/DragQueen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://ksr-ugc.imgix.net/assets/002/065/080/9d1d98e99d28af8a40aa1c74d82b3548_original.jpg?ixlib=rb-4.0.2&w=680&fit=max&v=1401248111&gif-q=50&q=92&s=6e98d9cee60e0838efc17cf51bbd78b3)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Resurrecting Drag Queen <br>
+作者：Robert Rodi <br>
+评分：4.8/5 <br>
 
-### Markdown
+关键词：短篇；两体一心；严肃律师 & 狂野变装皇后 双胞胎兄弟；婚礼的一天
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mitchell是在知名律所工作的律师，然而一天他妈晴天霹雳告诉他其实他是领养的，还有一个失散多年的同卵双胞胎哥哥Donald. Mitchell震惊之余雇侦探找到了他哥，却发现对方竟然和自己完全相反：Mitchell虽然公开出柜，但是却性格严肃，他努力拼搏多年就是为了向律所证明gay可以和直人一样；然而Donald是以个变装皇后，他每天精心打造夸张造型，不仅在工作的夜店里勇敢做自己，就连日常走在街头都不会放弃自己的变装。
 
-```markdown
-Syntax highlighted code block
+兄弟两人一开始都看不惯对方，Mitchell害怕自己表现得太gay，Donald害怕自己表现得太正常人。在作者夸张情节的包装下，兄弟两人各自代表了90年代gay群体两种割裂的心态，究竟要不要把自己同化进social norm里？然而在一系列事故中Mitchell完成了他的心灵奥德赛，兄弟两人重新实现了和解，并融合互补了两人的性格。
 
-# Header 1
-## Header 2
-### Header 3
+以上都还不是我标题推荐的小说的内容，而是它1995年的长篇前传Drag Queen。我推荐的Resurrecting Drag Queen收录在Robert Rodi 2014年的短篇集Essentially Postmillennial里，虽然它是后续，但这篇小说讲的是Mitchell和丈夫Henry大婚的一天，可以单独阅读。
 
-- Bulleted
-- List
+兄弟相认后的十多年中，Donald慢慢老了，不再富有当初的妖艳和魅力，于是他亲手埋葬了自己过去的身份，把最完美的形象留给了世界。而Mitchell开了他自己的律所，还遇到了他的爱人——old money共和党大家族的继承人Henry. 这篇小说就是记录了两人结婚的一天。
 
-1. Numbered
-2. List
+小说的明线是Mitchell在充满白人上流保守氛围的豪华婚礼中周转并最终和Henry宣誓终身，但恰如标题Resurrecting Drag Queen的暗线更加精彩，婚礼的一天更是Mitchell在drag精神的复兴和启发下，冲破心灵阻碍实现与保守大家族的Henry结婚的顿悟和和解。
 
-**Bold** and _Italic_ and `Code` text
+Henry的家族是世代的共和党钱权大家，来参加他婚礼的的姑妈甚至是当前某个深红州的州长。从一开始，这场婚宴虽为同性婚姻，却从头到尾散发出上流白人保守却又惺惺作态的虚伪气氛。Henry的父母责令两人必须举办盛大的典礼，但在婚礼上身为新郎的两人是众人交谈的重心，却又同时是禁忌话题，在场的家族权贵既祝贺两人却又努力回避两人的同性婚姻。而Mitchell为了丈夫必须配合表演，这让他的婚礼成了对他的一种折磨。
 
-[Link](url) and ![Image](src)
-```
+两人的婚礼还成为了选举的筹码，Henry的深红州长姑妈带来了记者，想要用这次婚礼作为契机争取选票。在交换戒指后的发言里，姑妈当着记者的面巧妙地避开了两人婚姻的同性成分，而强调婚姻的传统性质，夸赞两人不是那种radical的坏gay，而是愿意把自己根植于传统中的好gay。 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+幸运的是Donald也在场，这番话彻底激怒了Donald，他要为自己的弟弟还有自己这个群体出头。他来到后台卸下西装，换上了他多年未碰的变装服装，接着婚礼表演模仿秀的借口粉墨登场，最终他的表演把婚礼来宾的气氛推向最高点，现场乱作一团众人狂欢，把原先的保守氛围一扫而光。
 
-### Jekyll Themes
+在这场盛宴里，Mitchell得到了心灵上的双重解脱，Henry给了他爱情和安全感，而Donald重新燃起的drag精神充满了反抗的野性，让几乎被”protocol, procedure, tradition”压迫到迷茫的Mitchell，重新找回了他多年来慢慢和解的queer identity中不可或缺的”sensation, movement, and delight”，当婚礼结束和Henry去往意大利度蜜月时，Mitchell已经完成了新一层的身份构建。当然好事成双，Donald的男友在婚礼后也求婚了，两人几个星期后在Mitchell/Henry夫夫的见证下举办了另一场婚礼。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/DragQueen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+两体一心是这篇小说的重要主题，Mitchell和Donald是同卵兄弟却性格迥异，身份不同，但他们作为gay却经历着同样的身份挣扎和构建。他们两人象征了不同的反抗方式，Mitchell的舒适圈在后方战场，他努力工作用成就证明自己与他人无异，与州法战斗用诉讼保护其他人的婚姻平等；而Donald则在前线挥舞战刀，他把少数群体大方展示在社会的聚光灯下，告诉世界还有那些不一样的群体和生活方式。在Rodi的笔下，这两种战斗方式并没有孰优孰劣，而是渐渐从一开始兄弟俩的泾渭分明到后面的逐渐融合互补，让这部几乎30年前的小说在今天看来同样relatable
